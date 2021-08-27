@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @sasivm
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on Angular projects
+- 💞️ I am a full stack web developer. I use MEAN stack, and always ready to cope up with the changing technologies.
 
-<!---
-sasivm/sasivm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
